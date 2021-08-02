@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e1783df1.chunk.css",
+    "main.js": "/static/js/main.9941e09f.chunk.js",
+    "main.js.map": "/static/js/main.9941e09f.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.525a1d0b.js",
+    "runtime-main.js.map": "/static/js/runtime-main.525a1d0b.js.map",
+    "static/css/2.4be38407.chunk.css": "/static/css/2.4be38407.chunk.css",
+    "static/js/2.919543f1.chunk.js": "/static/js/2.919543f1.chunk.js",
+    "static/js/2.919543f1.chunk.js.map": "/static/js/2.919543f1.chunk.js.map",
+    "static/js/3.ef763d38.chunk.js": "/static/js/3.ef763d38.chunk.js",
+    "static/js/3.ef763d38.chunk.js.map": "/static/js/3.ef763d38.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.e1783df1.chunk.css.map": "/static/css/main.e1783df1.chunk.css.map",
+    "static/js/2.919543f1.chunk.js.LICENSE.txt": "/static/js/2.919543f1.chunk.js.LICENSE.txt",
+    "static/media/Berto_Chicago_install.912974a2.png": "/static/media/Berto_Chicago_install.912974a2.png",
+    "static/media/Budget-Tracker.f17b9426.png": "/static/media/Budget-Tracker.f17b9426.png",
+    "static/media/Casey_portfolio_image.cropped.70f5364a.png": "/static/media/Casey_portfolio_image.cropped.70f5364a.png",
+    "static/media/NPS_3.2c5cb218.png": "/static/media/NPS_3.2c5cb218.png",
+    "static/media/PW_Generator_Image.4a1c143f.png": "/static/media/PW_Generator_Image.4a1c143f.png",
+    "static/media/Work-day-scheduler.c3b8829c.png": "/static/media/Work-day-scheduler.c3b8829c.png",
+    "static/media/Workout-Tracker.4d334309.png": "/static/media/Workout-Tracker.4d334309.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.525a1d0b.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.919543f1.chunk.js",
+    "static/css/main.e1783df1.chunk.css",
+    "static/js/main.9941e09f.chunk.js"
+  ]
+}
