@@ -218,3 +218,11 @@ flex-direction: column;
   }
 }
 
+@media screen and (max-width: 700px) {
+  .card-body{
+    display: 'grid';
+    grid-template-columns: repeat(1, 1fr);
+    grid-template-rows: auto;
+    grid-gap: 5rem;
+  }
+}

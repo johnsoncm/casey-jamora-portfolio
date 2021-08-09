@@ -26,16 +26,20 @@ export default function Resume() {
           <ul className="lang-list">
               <li>Node</li>
               <li>Express</li>
+              <li>Apollo</li>
+              <li>GraphQL</li>
               <li>MySQL</li>
+              <li>Sequelize</li>
               <li>MongoDB</li>
-              <li>Inquirer</li>
+               <li>Mongoose</li>
+               <li>Inquirer</li>
               <li>Jest</li>
               
           </ul>
           <h3 className="resume-heading">Other Technologies</h3>
           <ul className="lang-list">
           <li>Bootstrap</li>
-          <li>Sequelize</li>
+          <li>Semantic UI</li>
           <li>Bycrypt</li>
           <li>Bulma</li>
           <li>Handlebars</li>

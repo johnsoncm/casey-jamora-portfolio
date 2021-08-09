@@ -18,7 +18,7 @@ const styles = {
         gridTemplateRows: 'auto',
         gridGap: '5rem',
      margin: '5%',
-     marginLeft: '30%',
+     marginLeft: '20%',
 
 
     },
@@ -26,6 +26,7 @@ const styles = {
         backgroundColor: 'lightgray',
         border: 'solid black 2px',
         padding: '25px',
+        width: '300px'
        
     
     
