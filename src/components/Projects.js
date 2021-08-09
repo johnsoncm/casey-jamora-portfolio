@@ -43,13 +43,13 @@ function Projects() {
                   An art event finding app for the city of Richmond, VA
                 </p>
                 <a
-                  href="https://github.com/johnsoncm/cadmium"
+                  href="https://github.com/sethvance26/Cadmium-Seth"
                   className="btn btn-primary"
                 >
                   Github Link
                 </a>
                 <a
-                  href="https://ancient-lowlands-14789.herokuapp.com/"
+                  href="https://cadmiumrva.herokuapp.com/"
                   className="btn btn-primary link-hover-style"
                 >
                   App Link
