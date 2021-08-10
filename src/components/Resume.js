@@ -12,7 +12,7 @@ const mystyle = {
 export default function Resume() {
     return (
       <div className="resume">
-          <h2 className="resume-link" style={{mystyle}}>  <a className="resume-link2" href='https://docs.google.com/document/d/14GvVpICNFA57CjI-vVkUK2SdInycxTJgnKr2ophEw48/edit?usp=sharing' target="_blank" rel="noreferrer">Link to Resume</a> </h2>
+          <h2 className="resume-link" style={{mystyle}}>  <a className="resume-link2" href='./assets/images/Casey_Johnson_Jamora_Resume_7.31.21(2).pdf' target="_blank" rel="noreferrer">Link to Resume</a> </h2>
 
           <h3 className="resume-heading">Front End Languages</h3>
           <ul className="lang-list">
