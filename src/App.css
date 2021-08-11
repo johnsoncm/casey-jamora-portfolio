@@ -111,11 +111,7 @@ ul.nav li.active a {
   font-size: 25px;
   /* background-color: black;
   color: white; */
-  
-  
 }
-
-
 
 .lang-list {
   font-family: "avenir";
@@ -225,16 +221,11 @@ a.btn {
   }
   .card-body {
     max-width: max-content;
-    
   }
-  .paragraph{
+  .paragraph {
     margin: 10%;
-    
-    
   }
 }
-
-
 
 .former-style {
   width: 55rem;
