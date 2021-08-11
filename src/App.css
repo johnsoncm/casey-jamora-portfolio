@@ -78,6 +78,13 @@ ul.nav li.active a {
   /* padding-top: 5px; */
   /* padding-left:350px;
   padding-right: 350px; */
+  /* background-color: white; */
+}
+
+.paragraph{
+  background-color: white;
+  border-radius: 20px 20px;
+  padding: 16px;
 }
 
 .resume-link {
@@ -109,8 +116,9 @@ ul.nav li.active a {
   display: flex;
   justify-content: center;
   font-size: 25px;
-  /* background-color: black;
-  color: white; */
+  background-color: black;
+  color: white;
+  margin: 20px;
 }
 
 .lang-list {
@@ -221,6 +229,7 @@ a.btn {
   }
   .card-body {
     max-width: max-content;
+
   }
   .paragraph {
     margin: 10%;
