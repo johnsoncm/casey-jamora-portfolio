@@ -85,6 +85,7 @@ ul.nav li.active a {
   background-color: white;
   border-radius: 20px 20px;
   padding: 16px;
+  font-weight: 500;
 }
 
 .resume-link {
