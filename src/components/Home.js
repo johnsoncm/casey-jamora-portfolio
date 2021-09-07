@@ -14,9 +14,7 @@ export default function About() {
         <div className="about-text">
           <p className="paragraph">
             Full Stack Web Developer, with a keen interest in front-end
-            development. I am passionate about serving the fine arts community,
-            and wish to use my software engineering skills to further
-            technological advancements in the art world. I hold an MA in
+            development. I hold an MA in
             Contemporary Art History, and have an extensive background in
             non-profit arts fundraising, which has instilled an astute attention
             to detail and a friendly collaborative nature. Well versed in HTML,

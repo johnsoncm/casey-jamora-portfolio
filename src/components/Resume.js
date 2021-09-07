@@ -1,6 +1,6 @@
 import React from "react";
 import "../../src/App.css";
-import resume from "../assets/images/Casey_Johnson_Jamora_Resume.8.11.21.pdf";
+import resume from "../assets/images/Casey_Johnson_Jamora_Resume.8.26.21.pdf";
 
 const mystyle = {
   fontFamily: "Monofett",

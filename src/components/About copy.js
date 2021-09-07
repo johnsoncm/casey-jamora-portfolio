@@ -13,12 +13,12 @@ export default function About() {
                 <div className="about-text">
                     <p>
                     Full Stack Web Developer in training, with a keen interest in
-                        back-end development.
+                        front-end development.
                         My background in fundraising has instilled an astute attention to detail and a friendly
                         collaborative nature.
                         Well versed in HTML, CSS, Javascript, Node.js, and React to build user-friendly web applications,
                         and a drive
-                        and enthusiasm to learn more software development languages. A current student
+                        and enthusiasm to learn more software development languages. A recent graduate of the
                         of the University of Richmond’s Full Stack Coding Boot Camp, I have experience working
                         with a team demonstrating strong leadership and communication skills.  
                     </p>
